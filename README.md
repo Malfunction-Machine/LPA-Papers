@@ -34,7 +34,6 @@ Este repositório do github é destinado para a disciplina de LPA (Laboratório 
 |      EX01      |     09/06        |    OK!    |   [Bacterias](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/EX01:%20Prova%201)          |
 |      AS05      |     09/19        |    N/A    |   [Componentes Conexos](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS05:%20Componentes%20Conexos)         |
 |      AS06      |     09/19        |    N/A    |   [Penalização](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS06:%20Penaliza%C3%A7%C3%A3o)          |
-|             
 
 
 </div>
