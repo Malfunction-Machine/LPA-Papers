@@ -11,14 +11,21 @@
 #include <vector>
 #include <bits/stdc++.h>
 
+class Graph {
+
+};
+
+
 int main(int argc, char const *argv[]) {
     int N;
     int V;
     int E;
-    std::string teste;
     int contador = 1;
+    std::string teste;
 
     scanf("%d",&N);
+
+    std::vector<std::pair<int, char>> vertices;
 
     while (contador <= N)
     {
