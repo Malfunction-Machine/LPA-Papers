@@ -32,8 +32,9 @@ Este repositório do github é destinado para a disciplina de LPA (Laboratório 
 |      AS03      |     08/22        |    OK!    |   [Estrutura de Dados](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS03:%20Estrutura%20de%20Dados)          |
 |      AS04      |     08/29        |    OK!    |   [Roteadores](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS04:%20Grafos)         |
 |      EX01      |     09/06        |    OK!    |   [Bacterias](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/EX01:%20Prova%201)          |
-|      AS05      |     09/19        |    N/A    |   [Componentes Conexos](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS05:%20Componentes%20Conexos)         |
+|      AS05      |     09/19        |    OK!    |   [Componentes Conexos](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS05:%20Componentes%20Conexos)         |
 |      AS06      |     09/19        |    N/A    |   [Penalização](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS06:%20Penaliza%C3%A7%C3%A3o)          |
+|      AS07      |     09/26        |    OK!    |   [Problema dos Pares Mais Próximos](https://github.com/Malfunction-Machine/LPA-Papers/tree/main/Papers/AS07:%20Problema%20dos%20Pares%20Mais%20Pr%C3%B3ximos)
 
 
 </div>
