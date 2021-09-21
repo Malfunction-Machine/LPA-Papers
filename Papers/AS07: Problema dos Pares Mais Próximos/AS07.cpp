@@ -10,8 +10,9 @@
  *                de Kruskal
 */
 
+#include <iostream>
 #include <vector>
-#include <cmath>
+#include <math.h>
 #include <bits/stdc++.h>
 
 std::vector<float> calculaDistancia(std::vector<std::pair<int,int>> pontos) {
