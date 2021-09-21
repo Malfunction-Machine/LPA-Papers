@@ -21,9 +21,7 @@
 
 </div>
 
-<br>
-
-<div style="text-align: justify"> 
+ 
 
 <br>
 
@@ -39,7 +37,7 @@ Leia dois valores inteiros M e N indefinidamente. A cada leitura, calcule e escr
 
 <br>
 
- O arquivo de entrada contém vários casos de teste. Cada caso contém dois números inteiros **M** (0 ≤ M ≤ 20) e N (0 ≤ N ≤ 20). O fim da entrada é determinado por eof.
+ O arquivo de entrada contém vários casos de teste. Cada caso contém dois números inteiros **M** (0 ≤ M ≤ 20) e **N** (0 ≤ N ≤ 20). O fim da entrada é determinado por eof.
 
 **Exemplo de entrada:**
 
@@ -71,7 +69,6 @@ Para cada caso de teste de entrada, seu programa deve imprimir uma única linha,
 
 <br>
 
- - A entrada e saida de exemplo estão disponíveis nos arquivos [**pub.in**]() e [**pub.out**]() respectivamente.
+ - A entrada e saida de exemplo estão disponíveis nos arquivos [**pub.in**](https://github.com/Malfunction-Machine/LPA-Papers/blob/main/Papers/AS01:%20Soma%20de%20Fatoriais/pub.in) e [**pub.out**](https://github.com/Malfunction-Machine/LPA-Papers/blob/main/Papers/AS01:%20Soma%20de%20Fatoriais/pub.out) respectivamente.
  - Para acessar a saida privada, basta acessar o debugger do URI pelo shields do projeto.
 
-</div>
