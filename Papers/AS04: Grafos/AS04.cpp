@@ -1,5 +1,5 @@
 /* 
- * Tarefa: Grafos (Roteadores)
+ * Tarefa: Roteadores (Grafos)
  * Disciplina: LABORATÓRIO DE PROJETO DE ALGORITMOS
  * Nome: Thiago Henriques Nogueira
  * Matricula: 655085
