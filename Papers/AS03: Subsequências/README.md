@@ -70,5 +70,5 @@ No
 
 <br>
 
- - A entrada e saida de exemplo estão disponíveis nos arquivos [**pub.in**](https://github.com/Malfunction-Machine/LPA-Papers/blob/main/Papers/AS03:%20Estrutura%20de%20Dados/pub.in) e [**pub.out**](https://github.com/Malfunction-Machine/LPA-Papers/blob/main/Papers/AS02:%20LED/pub.out) respectivamente.
+ - A entrada e saida de exemplo estão disponíveis nos arquivos [**pub.in**](https://github.com/Malfunction-Machine/LPA-Papers/blob/main/Papers/AS03:%20Subsequ%C3%AAncias/pub.in) e [**pub.out**](https://github.com/Malfunction-Machine/LPA-Papers/blob/main/Papers/AS03:%20Subsequ%C3%AAncias/pub.out) respectivamente.
  - Para acessar a saida privada, basta acessar o debugger do URI pelo shields do projeto.
