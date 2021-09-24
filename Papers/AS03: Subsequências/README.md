@@ -1,4 +1,4 @@
-# LED
+# Subsequências
 
 <br>
 
@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/static/v1?label=LEVEL&message=7&color=D72638&style=for-the-badge" /></a>
 
 
-  <a href="https://www.udebug.com/URI/1161" alt="Debug">
+  <a href="https://www.udebug.com/URI/1507" alt="Debug">
         <img src="https://img.shields.io/badge/DEBUG-CC0000?style=for-the-badge" /></a>
 
 </div>
