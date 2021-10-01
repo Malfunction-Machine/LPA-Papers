@@ -19,7 +19,7 @@
 
 <div style="text-align: justify"> 
 
-Repositório é destinado para a disciplina de LPA (Laboratório de Projeto de Algoritmos), onde será possível encontrar as minhas soluções para as diversas atividades avaliativas lançadas ao longo do semestre. Abaixo se encontra uma tabela com todas as atividades passadas ao longo do semestre, seus deadlines, o progresso no desenvolvimento do desafio e um link para as questões.
+Repositório destinado para a disciplina de LPA (Laboratório de Projeto de Algoritmos), onde será possível encontrar as minhas soluções para as diversas atividades avaliativas lançadas ao longo do semestre. Abaixo se encontra uma tabela com todas as atividades passadas ao longo do semestre, seus deadlines, o progresso no desenvolvimento do desafio e um link para as questões.
 
 </div>
 
