@@ -18,8 +18,6 @@
 
 <div style="text-align: justify"> 
 
-<br>
-
 ## **Enunciado**
 
 <br>
@@ -41,8 +39,6 @@ program that, given the list of stations, the fares of the monthly tickets betwe
 the station nearest Peter’s home, returns the minimum amount of money Peter has to spend in order
 to travel to any other station. This program also has to return value if it is not possible to go from
 Peter’s home station to all the rest, because in this case Peter will begin to consider using buses...
-
-<br>
 
 ## **Entrada**
 
