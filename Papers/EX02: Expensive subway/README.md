@@ -1,4 +1,4 @@
-# Notas e Moedas
+# Expensive Subway
 
 <br>
 
@@ -13,8 +13,6 @@
         <img src="https://img.shields.io/static/v1?label=ASSUNTO&message=GRAFOS&color=black&style=for-the-badge" /></a>
 
 </div>
-
-<br>
 
 <div style="text-align: justify"> 
 
@@ -81,8 +79,6 @@ Temple
 0 0
 ```
 
-<br>
-
 ## **Saída**
 
 <br>
@@ -97,8 +93,6 @@ travel to all the stations.
 12
 Impossible
 ```
-
-<br>
 
 ## **Observações**
 
