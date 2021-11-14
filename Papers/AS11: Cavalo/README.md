@@ -37,8 +37,6 @@ O desafio é o seguinte: Há um cavalo e **K** peões no tabuleiro. Dada uma pos
 
 Lembre que a peça do cavalo pode mover-se usando saltos de formato L, ou seja, duas posições para a vertical e uma posição para a horizontal, ou duas posições para a horizontal e uma posição para a vertical. Para capturar um peão, basta ocupar a mesma posição que ele no tabuleiro.
 
-<br>
-
 ## **Entrada**
 
 <br>
@@ -71,8 +69,6 @@ O último caso de teste é indicado quando **N** = **M** = **K** = 0, o qual nã
 0 0 0
 ```
 
-<br>
-
 ## **Saída**
 
 <br>
@@ -87,8 +83,6 @@ Para cada caso de teste, imprima um inteiro, representando a quantidade mínima 
 4
 8
 ```
-
-<br>
 
 ## **Observações**
 
