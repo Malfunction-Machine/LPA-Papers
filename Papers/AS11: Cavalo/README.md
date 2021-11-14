@@ -1,4 +1,4 @@
-# Notas e Moedas
+# Cavalo
 
 <br>
 
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/1513" alt="URI">
+  <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1513" alt="URI">
         <img src="https://img.shields.io/static/v1?label=URI&message=1513&color=black&style=for-the-badge&link=" /></a>
   
   <a href="#" alt="Assunto">
