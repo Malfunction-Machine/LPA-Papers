@@ -21,11 +21,7 @@
 
 </div>
 
-<br>
-
 <div style="text-align: justify"> 
-
-<br>
 
 ## **Enunciado**
 
